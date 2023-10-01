@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **B182155/B182155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a front-end developer having expertise in react js<br>
+I'm a web developer having expertise in react js<br>
 
 
 ## 🌐 Socials:
